@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ["Offset 0"=school]
+ls set string=SCHOOL 
